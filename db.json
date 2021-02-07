@@ -1,21 +1,4 @@
 {
-    "personal": [
-        {
-            "id": 1,
-            "nickname": "Mos",
-            "firstname": "Purachet",
-            "lastname": "Ruangtanasak",
-            "imagePath": "/webresume/images/Mos_HomeImage.png",
-            "position": "Mobile Application Developer",
-            "quotes": "If you can't stop the waves, learn to surf.",
-            "quotesDescription": "I didn't say that, I just copied from the internet.",
-            "email": "mos.ruangtanasak@gmail.com",
-            "phoneNumber": "0875971249",
-            "skillId": 1,
-            "experiencesId": 1,
-            "portfoliosId": 1
-        }
-    ],
     "skills": [
         {
             "id": 1,
@@ -148,82 +131,6 @@
                             "imagePath": "/webresume/images/Program_Photoshop.png"
                         }
                     ]
-                }
-            ]
-        }
-    ],
-    "experiences": [
-        {
-            "id": 1,
-            "userId": [
-                1
-            ],
-            "userExperiences": [
-                {
-                    "id": 1,
-                    "companyName": "THIS IS! Digital Media Group GmbH",
-                    "Duration": "2019-Now",
-                    "workExperience": "1 year 2 months",
-                    "position": "Mobile Application Developer",
-                    "description": "3 mobile application projects development experience",
-                    "details": [
-                        "Develop iOS and Android app by using Xamarin framework",
-                        "Developed layout and functions follow the design.",                       
-                        "Created API GET/POST/PUT/DELETE request function",
-                        "Created ER diagram and model follow the requirement",                       
-                        "Planed and estimated the project task",
-                        "Managed folder structure and component for each pages.",
-                        "Analyzed the design, and suggested better way."
-                    ],
-                    "imageCompanyPath": "/webresume/images/ThisIsDMG_logo.png"
-                },
-                {
-                    "id": 2,
-                    "companyName": "Toyota Tsusho Denso Electronics Thailand",
-                    "Duration": "2017-2019",
-                    "workExperience": "2 years 1 month",
-                    "position": "Software Engineer",
-                    "description": "More than 10 projects development experience",
-                    "details": [
-                        "Developed software for engine ECUs (Electronic Control Units by using model base system (MATLAB Simulink).",
-                        "Developed tools for checking easy mistake and reducing some process in document work by using VBA excel.",
-                        "Designed, created and modified modules follow requirement.",
-                        "Designed and created testcase for checking all possible case before delivering to customer.",
-                        "Communicated, Reviewed design and test result with foriegn customer.",
-                        "Planed managed and reviewed junior member work.",
-                        "Received \"Good quality work of the year\" award from company.",
-                        "Trained and supported new graduation member (new staff)."
-                    ],
-                    "imageCompanyPath": "/webresume/images/TDET_logo.png"
-                },
-                {
-                    "id": 3,
-                    "companyName": "Chulalongkorn University",
-                    "Duration": "2016-2017",
-                    "workExperience": "Senior Project",
-                    "position": "Hardware and Software Engineer",
-                    "description": "\"Smartband For Fall Detection\" is wearable device that can detect alls by using MACHINE LEARNING method. When a fall is detected, the smartband will automatically send the faller's location to the caregiver or hospital via mobile application.",
-                    "details": [
-                        "Researched and learned about Machine Learning.",
-                        "Create algorithm with Machine learning method for detect falling behevior from acceleration, rotation, magnetic data by using Arduino",
-                        "Create algorithm for training decision model for more precising fall detection by using MATLAB"
-                    ],
-                    "imageCompanyPath": "/webresume/images/EECU_logo.png"
-                },
-                {
-                    "id": 4,
-                    "companyName": "Thaigertec Co.,Ltd",
-                    "Duration": "2016",
-                    "workExperience": "Internship",
-                    "position": "Hardware Engineer",
-                    "description": "Internship program in FPGA design, hardware section at Thaigertec Co.,Ltd.",
-                    "details": [
-                        "Create basic music player using FPGA",
-                        "Making PWM signal via FPGA.",
-                        "Debug signals with ChipScope for more precising.",
-                        "Create NFC presentation board."
-                    ],
-                    "imageCompanyPath": "/webresume/images/ThaiGerTec_logo.png"
                 }
             ]
         }
